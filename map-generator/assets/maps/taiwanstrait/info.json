@@ -1,21 +1,6 @@
 {
-  "name": "TaiwanRebalanced",
-  "mapInfoState": {
-    "width": 1700,
-    "height": 1905,
-    "originalWidth": 1700,
-    "originalHeight": 1905,
-    "cropData": {
-      "isCropped": false,
-      "cropX": 0,
-      "cropY": 0,
-      "cropWidth": 0,
-      "cropHeight": 0,
-      "originalWidth": 0,
-      "originalHeight": 0
-    },
-    "colorMappings": []
-  },
+  "name": "TaiwanStrait",
+  
   "nations": [
     {
       "coordinates": [665, 76],
